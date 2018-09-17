@@ -1,2 +1,4 @@
-def conference_badges(name, badges, room_assignments)
-  name = ["Edsger"]
+def conference_badges(attendees, name)
+  attendees = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
+  name = 
+  
