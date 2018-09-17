@@ -1,4 +1,5 @@
 def conference_badges
   attendees = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
-  attendees.list 
+  badges0 = attendees(0)
+  puts "Hello,my name is #{badges0}"
 end
