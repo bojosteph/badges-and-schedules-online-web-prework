@@ -1,4 +1,4 @@
 def conference_badges(attendees, name)
-  attendees = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
-  name = 
-  
+  attendees = name["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
+  attendees.list 
+end
